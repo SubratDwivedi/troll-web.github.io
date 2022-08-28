@@ -1,0 +1,31 @@
+html {
+font-size: 30px
+}
+
+body {
+font-family: "Gill Sans", sans-serif;
+//background-color: black;
+background-size:fill;
+color: whitesmoke;
+text-align:center;
+
+}
+
+h2 {
+font-family:Bradley Hand, cursive;
+color:whitesmoke
+}
+
+button {
+width:200px;
+font-size:20px;
+font-weight:bold;
+background: #e74c3c;
+border-radius:10px;
+color:#fadbd8;
+}
+
+img {
+  height:200px;
+  width:200px;
+}
